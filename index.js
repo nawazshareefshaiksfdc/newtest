@@ -1,6 +1,5 @@
 let fruits = ['apple'];
-
-
+let name = 'nawaz shareef';
 console.log(fruits[0]);
 
 
